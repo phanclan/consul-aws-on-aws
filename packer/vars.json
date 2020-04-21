@@ -1,0 +1,8 @@
+{
+  "consul_zip": "consul_1.7.2+ent_linux_amd64.zip",
+  "consul_version": "1.7.2",
+  "username": "instruqt",
+  "pubkey": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDJenf8BiI2MNvCsBYsnWhre6HcWxJV6g22fGFkFYaZjZ2q+onE4mIpk/q/iqa9xXuQFePoa67iAQy8QCRxFvZqrXBd9OtUrFnmVpngRp/wAX1lb3Hhr8m3rBYrnnnuTA3O9KHvOaTZLD7oK6Nc2YHeXU8bJVBVl83EAXJ9a2KpdmDHYwlpebjXfERXPfmNIqvD+PVFqDWh3BSEo2H0Y6KsgXx7QTWGhUCXVmlk+xtfXVQcxxc/DAZUrQZOu42wvNoHPkB9Pzluc0yU5t6TSABWZAesnvgn3tOXeMVXv05Fb+EmqvW1fG4+vRVSPzjAAi8gA7tmIXPP357d8651YLf7",
+  "owner": "instruqt@hashicorp.com",
+  "release": "0.0.1"
+}
